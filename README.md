@@ -1,17 +1,54 @@
 <!-- ============================================================
-  BATMAN: ARKHAM KNIGHT GITHUB PROFILE — Isaj011
-  Interactive page: https://Isaj011.github.io
+  BATMAN: ARKHAM KNIGHT GITHUB PROFILE — Isaj011 / Ismael Saad
+  Interactive: https://Isaj011.github.io
   ============================================================ -->
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=3000&pause=800&color=3A7BD5&center=true&width=680&lines=BATCOMPUTER+ONLINE...;ARKHAM+SYSTEMS+v4.7;LEAD+FULL-STACK+ENGINEER+%7C+NAIROBI+KE;MICROFRONTENDS+%C2%B7+SPRING+BOOT+%C2%B7+DJANGO;BUILDING+SYSTEMS+THAT+WORK+IN+THE+DARK)](https://Isaj011.github.io)
+<!-- ══════════════════════════════════════════════════════════
+     HERO BANNER — THE BIG CALL TO ACTION
+     This is the first thing visitors see on your profile
+════════════════════════════════════════════════════════════ -->
 
 <br/>
 
-[![ENTER ARKHAM SYSTEMS](https://img.shields.io/badge/%E2%9A%A1%20ENTER%20FULL%20INTERACTIVE%20PROFILE%20%E2%86%97-04060d?style=for-the-badge&logoColor=3a7bd5)](https://Isaj011.github.io)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=3000&pause=800&color=3A7BD5&center=true&width=700&lines=BATCOMPUTER+ONLINE...;ARKHAM+SYSTEMS+v4.7;LEAD+FULL-STACK+ENGINEER+%7C+NAIROBI+KE;MICROFRONTENDS+%C2%B7+SPRING+BOOT+%C2%B7+DJANGO;BUILDING+SYSTEMS+THAT+WORK+IN+THE+DARK)](https://Isaj011.github.io)
 
-<sub>Click above for the full Dark Knight experience — live terminal · Batcomputer · game · rain</sub>
+<br/>
+
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║                                                                          ║
+║           ██████╗  █████╗ ████████╗███╗   ███╗ █████╗ ███╗              ║
+║           ██╔══██╗██╔══██╗╚══██╔══╝████╗ ████║██╔══██╗████╗             ║
+║           ██████╔╝███████║   ██║   ██╔████╔██║███████║██╔██╗            ║
+║                                                                          ║
+║          ISAJ011 / README.md  ·  ARKHAM SYSTEMS v4.7                    ║
+║          OPERATIVE: ISMAEL SAAD  ·  NAIROBI, KE → REMOTE               ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+<!-- ── THE MAIN BUTTON — MAKE IT BIG AND UNMISSABLE ── -->
+
+[![ENTER ARKHAM SYSTEMS](https://img.shields.io/badge/%E2%96%BA%20%20ENTER%20FULL%20INTERACTIVE%20PROFILE%20%20%E2%96%BA-04060d?style=for-the-badge&logoColor=3a7bd5&labelColor=04060d&color=04060d)](https://Isaj011.github.io)
+
+[![LIVE TERMINAL](https://img.shields.io/badge/LIVE%20TERMINAL-04060d?style=flat-square&logoColor=3a7bd5&color=04060d)](https://Isaj011.github.io)&nbsp;[![BATCOMPUTER](https://img.shields.io/badge/BATCOMPUTER-04060d?style=flat-square&color=04060d)](https://Isaj011.github.io)&nbsp;[![PLAYABLE GAME](https://img.shields.io/badge/PLAYABLE%20GAME-04060d?style=flat-square&color=04060d)](https://Isaj011.github.io)&nbsp;[![GOTHAM RAIN](https://img.shields.io/badge/GOTHAM%20RAIN-04060d?style=flat-square&color=04060d)](https://Isaj011.github.io)
+
+<sub><sup>
+
+```
+──────────────────────────────────────────────────────────────────────────
+  Click ▲ above for the full Dark Knight experience — Isaj011.github.io
+  Live terminal  ·  Batcomputer PC  ·  Commit Runner game  ·  Gotham rain
+──────────────────────────────────────────────────────────────────────────
+```
+
+</sup></sub>
+
+<br/>
 
 </div>
 
