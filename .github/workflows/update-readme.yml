@@ -1,59 +1,27 @@
-# ============================================================
-#  FILE LOCATION: .github/workflows/update-readme.yml
-#
-#  WHAT IT DOES:
-#    Runs update-stats.js every night at midnight UTC.
-#    The script calls the GitHub API and rewrites the
-#    STATS:START / STATS:END block in your README.md
-#    with your real live numbers, then auto-commits.
-#
-#  SETUP (one time):
-#    1. Make sure update-stats.js exists at:
-#       .github/scripts/update-stats.js
-#    2. Commit both files to your Isaj011/Isaj011 repo
-#    3. Go to Settings → Actions → General
-#       → set "Workflow permissions" to "Read and write"
-#    4. The workflow runs automatically at midnight UTC daily
-#    5. To test immediately: Actions → Update README Stats
-#       → Run workflow
-#
-#  WHAT UPDATES:
-#    - Public repo count
-#    - Follower count
-#    - Total stars across all repos
-#    - Last updated date
-# ============================================================
-
 name: Update README Stats
 
 on:
   schedule:
-    - cron: "0 0 * * *"    # every day at midnight UTC
-  workflow_dispatch:         # allow manual trigger from Actions tab
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
-
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
+      - uses: actions/setup-node@v4
         with:
           node-version: 20
 
-      - name: Run stats update script
-        run: node .github/scripts/update-stats.js
+      - run: node .github/scripts/update-stats.js
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit updated README
-        run: |
+      - run: |
           git config user.name "Batcomputer"
           git config user.email "arkham-bot@isaj011.dev"
           git add README.md
-          git diff --staged --quiet || git commit -m "chore(bot): update live GitHub stats [skip ci]"
+          git diff --staged --quiet || git commit -m "chore(bot): update live stats [skip ci]"
           git push
