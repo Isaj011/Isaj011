@@ -1,7 +1,17 @@
+github-readme-stats.vercel.app/api?username=Isaj011
+streak-stats.demolab.com?user=Isaj011
+github-readme-stats.vercel.app/api/top-langs/?username=Isaj011
+profile-counter.glitch.me/Isaj011/count.svg
+![Stats](https://github-readme-stats.vercel.app/api?username=Isaj011&theme=dark)
+![Streak](https://streak-stats.demolab.com?user=Isaj011&theme=dark)
+![Skills](https://skillicons.dev/icons?i=js,react,nodejs,docker)
+[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&lines=Full+Stack+Dev;Open+to+work)](https://git.io/typing-svg)
+[![Play Snake](https://img.shields.io/badge/Play-Snake_Game-ff2d78?style=for-the-badge&logo=github)](https://yourusername.github.io/snake)
+
 <!-- ============================================================
   BATMAN: ARKHAM KNIGHT × DARK KNIGHT HYBRID
   GitHub    : Isaj011
-  Operative : Isaac Njatirogue
+  Operative : Ismael Saad
   Updated   : Auto-managed — see scripts below
   ============================================================ -->
 
