@@ -1,14 +1,21 @@
 <!-- ============================================================
-  BATMAN: ARKHAM KNIGHT GITHUB PROFILE
-  GitHub  : Isaj011
-  Name    : Ismael Saad
+  BATMAN: ARKHAM KNIGHT GITHUB PROFILE — Isaj011
+  Interactive page: https://Isaj011.github.io
   ============================================================ -->
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=3000&pause=800&color=3A7BD5&center=true&width=680&lines=BATCOMPUTER+ONLINE...;ARKHAM+SYSTEMS+v4.7;LEAD+FULL-STACK+ENGINEER+%7C+NAIROBI+KE;MICROFRONTENDS+%C2%B7+SPRING+BOOT+%C2%B7+DJANGO;BUILDING+SYSTEMS+THAT+WORK+IN+THE+DARK)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=3000&pause=800&color=3A7BD5&center=true&width=680&lines=BATCOMPUTER+ONLINE...;ARKHAM+SYSTEMS+v4.7;LEAD+FULL-STACK+ENGINEER+%7C+NAIROBI+KE;MICROFRONTENDS+%C2%B7+SPRING+BOOT+%C2%B7+DJANGO;BUILDING+SYSTEMS+THAT+WORK+IN+THE+DARK)](https://Isaj011.github.io)
+
+<br/>
+
+[![ENTER ARKHAM SYSTEMS](https://img.shields.io/badge/%E2%9A%A1%20ENTER%20FULL%20INTERACTIVE%20PROFILE%20%E2%86%97-04060d?style=for-the-badge&logoColor=3a7bd5)](https://Isaj011.github.io)
+
+<sub>Click above for the full Dark Knight experience — live terminal · Batcomputer · game · rain</sub>
 
 </div>
+
+---
 
 <div align="center">
 
@@ -53,7 +60,7 @@ MISSION   : Microfrontend architecture. Enterprise systems.
 
 <!-- STATS:START -->
 ```
-REPOS     : 30    FOLLOWERS : 55    STARS : 40    UPDATED : 2026-03-17
+REPOS     : --    FOLLOWERS : --    STARS : --    UPDATED : --
 ```
 <!-- STATS:END -->
 
@@ -112,11 +119,11 @@ Technical Lead      ████████████░  90%   Code Review �
 
 **`CASE #001`** &nbsp; 🟢 **LIVE**
 
-**Vehicle & Route Management System**
+**Vehicle & Route Management**
 
-Full-stack logistics platform for Kenya's transport ecosystem. JWT auth, RBAC, microservices-ready architecture built for containerised deployment.
+Full-stack logistics platform for Kenya's transport ecosystem. JWT, RBAC, microservices-ready.
 
-`Node.js` `Express` `MongoDB` `React` `JWT` `RBAC`
+`Node.js` `Express` `MongoDB` `React`
 
 [Repo ↗](https://github.com/Isaj011/vehicle-route-management)
 
@@ -127,7 +134,7 @@ Full-stack logistics platform for Kenya's transport ecosystem. JWT auth, RBAC, m
 
 **Django Reporting Engine**
 
-Enterprise dynamic reporting system generating structured PDFs and Docx from configurable JSON-driven templates with field-mapping and runtime data injection.
+Enterprise PDF/Docx generation from JSON-driven templates. Deployed at Serianu Limited.
 
 `Django` `Python` `ReportLab` `PostgreSQL`
 
@@ -140,7 +147,7 @@ Enterprise dynamic reporting system generating structured PDFs and Docx from con
 
 **3D Developer Portfolio**
 
-Interactive 3D portfolio built with Three.js — optimised rendering and smooth UX. Deployed on Netlify.
+Interactive Three.js portfolio with optimised rendering. Deployed on Netlify.
 
 `React` `Three.js` `Vite`
 
@@ -160,34 +167,12 @@ ROLE         : Lead Frontend & Full-Stack Engineer
 TENURE       : May 2023 – Present
 
 KEY OPS      :
-  ► Led migration to Microfrontend architecture — modular deploys,
-    independent scaling across enterprise cybersecurity platforms
+  ► Led migration to Microfrontend architecture
   ► Built Spring Boot (Java) + Django (Python) backend services
-    for enterprise-grade reporting and security platforms
-  ► Architected Django Reporting Engine — dynamic PDF generation,
-    JSON-driven templates, structured field-mapping workflows
+  ► Architected Django Reporting Engine — dynamic PDF generation
   ► Designed PostgreSQL & MongoDB schemas optimised for scale
-  ► Implemented JWT + RBAC authentication across distributed systems
-  ► Mentored junior/mid engineers · led architecture reviews
-  ► Delivered in Agile/Scrum with product, backend, and QA teams
-```
-
----
-
-### `// BATCOMPUTER — TERMINAL`
-
-```bash
-# Vehicle & Route Management
-$ git clone https://github.com/Isaj011/vehicle-route-management.git
-$ cd vehicle-route-management && npm install && npm run dev
-
-# Django Reporting Engine
-$ git clone https://github.com/Isaj011/django-reporting-engine.git
-$ pip install -r requirements.txt && python manage.py runserver
-
-# Deploy with Docker
-$ docker compose up -d
-$ kubectl apply -f k8s/
+  ► Implemented JWT + RBAC across distributed systems
+  ► Mentored engineers · led architecture reviews · Agile delivery
 ```
 
 ---
@@ -209,7 +194,7 @@ $ kubectl apply -f k8s/
 [![GitHub](https://img.shields.io/badge/GitHub-04060d?style=for-the-badge&logo=github&logoColor=a8c8f0)](https://github.com/Isaj011)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-04060d?style=for-the-badge&logo=linkedin&logoColor=3a7bd5)](https://linkedin.com/in/isaj011)
 [![Portfolio 3D](https://img.shields.io/badge/Portfolio_3D-04060d?style=for-the-badge&logo=vercel&logoColor=a8c8f0)](https://3d-app-portfolio-saad.netlify.app)
-[![Portfolio](https://img.shields.io/badge/Portfolio_Classic-04060d?style=for-the-badge&logo=netlify&logoColor=5a9ff5)](https://myfolio-isaj011-nyatirogue.netlify.app)
+[![Portfolio Classic](https://img.shields.io/badge/Portfolio_Classic-04060d?style=for-the-badge&logo=netlify&logoColor=5a9ff5)](https://myfolio-isaj011-nyatirogue.netlify.app)
 
 </div>
 
